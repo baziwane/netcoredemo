@@ -1,0 +1,8 @@
+/Users/rbmatovu/Experiments/NetCoreDemo/bin/Debug/netcoreapp1.1/NetCoreDemo.deps.json
+/Users/rbmatovu/Experiments/NetCoreDemo/bin/Debug/netcoreapp1.1/NetCoreDemo.runtimeconfig.json
+/Users/rbmatovu/Experiments/NetCoreDemo/bin/Debug/netcoreapp1.1/NetCoreDemo.runtimeconfig.dev.json
+/Users/rbmatovu/Experiments/NetCoreDemo/bin/Debug/netcoreapp1.1/NetCoreDemo.dll
+/Users/rbmatovu/Experiments/NetCoreDemo/bin/Debug/netcoreapp1.1/NetCoreDemo.pdb
+/Users/rbmatovu/Experiments/NetCoreDemo/obj/Debug/netcoreapp1.1/NetCoreDemo.AssemblyInfo.cs
+/Users/rbmatovu/Experiments/NetCoreDemo/obj/Debug/netcoreapp1.1/NetCoreDemo.dll
+/Users/rbmatovu/Experiments/NetCoreDemo/obj/Debug/netcoreapp1.1/NetCoreDemo.pdb
