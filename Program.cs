@@ -5,7 +5,7 @@ namespace NetCoreDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("You are one in a million!");
         }
     }
 }
